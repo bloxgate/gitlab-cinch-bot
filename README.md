@@ -18,6 +18,12 @@ Manage your GitLab installation via IRC.
 * Close Issue for Project `!issue close PROJECT_ID ISSUE_ID`
 * Reopen Issue for Project `!issue reopen PROJECT_ID ISSUE_ID`
 
+## Install
+
+- Clone this repository or save the *bot.rb* file.
+- Edit bot.rb
+- Install cinch and gitlab gems: ```gem install cinch``` and ```gem install gitlab```
+- Run bot.rb ```ruby bot.rb```
 
 ## Tools
 
